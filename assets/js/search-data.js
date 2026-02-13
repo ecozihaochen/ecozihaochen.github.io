@@ -483,14 +483,14 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Zihao-Chen/", "_blank");
+          window.open("https://www.researchgate.net/profile/Zihao-Chen/", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0002-9029-6444", "_blank");
+          window.open("https://orcid.org/0000-0002-9029-6444", "_blank");
         },
       },{
         id: 'social-scholar',
