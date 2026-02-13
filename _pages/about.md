@@ -2,6 +2,8 @@
 layout: about
 title: Home
 permalink: /about/
+nav: ture
+nav_order: 1
 subtitle: Ph.D. Student, Fujian Normal University
 
 profile:
