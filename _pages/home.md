@@ -1,10 +1,10 @@
 ---
 layout: about
-title: "." #home
+title: " " #home
 permalink: /
 nav: false
 nav_order: 0
-subtitle:  #Integração Geotecnológica para Variáveis Dendrométricas, Qualitativas e Tecnológicas da Madeira
+subtitle: # Integração Geotecnológica para Variáveis Dendrométricas, Qualitativas e Tecnológicas da Madeira
 
 # profile:
 #   align: right
