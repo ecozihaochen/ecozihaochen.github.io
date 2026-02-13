@@ -9,11 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="font-family: Arial, Helvetica, sans-serif !important; font-size: 0.95rem; line-height: 1;">
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-    </div>
+    <p style="font-family: Arial;">Zihao Chen (陈子豪)</p>
+    <p style="font-family: Arial;">chenzihaoxue@163.com</p>
+    <p style="font-family: Arial;">Fuzhou, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
