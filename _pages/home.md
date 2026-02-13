@@ -59,11 +59,11 @@ latest_posts:
 }
 
 [data-theme='dark'] .video-overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.7);
 }
 
 [data-theme='light'] .video-overlay {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.4);
 }
 
 .hero-container {
@@ -367,11 +367,18 @@ latest_posts:
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-text">
+      <h1 class="hero-title">FORESTEYES</h1>
+      <p class="hero-subtitle">Grupo de Estudo sobre Integração Geotecnológica aplicadas a Engenharia Florestal</p>
+      <!-- <div class="explore-message">
+        Explore nosso site para conhecer nossas linhas de pesquisa, nossa equipe e o impacto de nossos trabalhos
+      </div> -->
+      
       <!-- Social media icons -->
       <div class="social-section" style="margin-top: 1.5rem;">
         <div class="contact-icons">{% include social.liquid %}</div>
       </div>
     </div>
+    
     <div class="hero-profile">
       <div class="profile-card">
         <img src="assets/img/prof_pic.png" alt="Profile" class="profile-image">
