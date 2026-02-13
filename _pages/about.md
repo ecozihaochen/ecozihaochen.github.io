@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Home
-permalink: /
+permalink: /about/
 subtitle: Ph.D. Student, Fujian Normal University
 
 profile:
