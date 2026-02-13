@@ -63,7 +63,7 @@ latest_posts:
 }
 
 [data-theme='light'] .video-overlay {
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.1);
 }
 
 .hero-container {
@@ -362,4 +362,34 @@ latest_posts:
   <div class="particle"></div>
   <div class="particle"></div>
   <div class="particle"></div>
+</div>
+
+<div class="hero-container">
+  <div class="hero-content">
+    <div class="hero-text">
+      <h1 class="hero-title">FORESTEYES</h1>
+      <p class="hero-subtitle">Grupo de Estudo sobre Integração Geotecnológica aplicadas a Engenharia Florestal</p>
+      <!-- <div class="explore-message">
+        Explore nosso site para conhecer nossas linhas de pesquisa, nossa equipe e o impacto de nossos trabalhos
+      </div> -->
+      
+      <!-- Social media icons -->
+      <div class="social-section" style="margin-top: 1.5rem;">
+        <div class="contact-icons">{% include social.liquid %}</div>
+      </div>
+    </div>
+    
+    <div class="hero-profile">
+      <div class="profile-card">
+        <img src="assets/img/prof_pic.png" alt="Profile" class="profile-image">
+        <div class="location-info">
+          <p>Universidade Federal do Paraná</p>
+          <p>CIFLOMA – Campus Jardim Botânico</p>
+          <p>Laboratório de Inventário Florestal e Biofix</p>
+          <p>Av. Pref. Lothário Meissner, 632 – Jardim Botânico</p>
+          <p>CEP 80.210-170 – Curitiba – PR</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
