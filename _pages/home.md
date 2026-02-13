@@ -4,7 +4,7 @@ title: "." #home
 permalink: /
 nav: false
 nav_order: 0
-subtitle:  #Integração Geotecnológica para Variáveis Dendrométricas, Qualitativas e Tecnológicas da Madeira
+subtitle: #Integração Geotecnológica para Variáveis Dendrométricas, Qualitativas e Tecnológicas da Madeira
 
 # profile:
 #   align: right
@@ -16,7 +16,6 @@ subtitle:  #Integração Geotecnológica para Variáveis Dendrométricas, Qualit
 #     <p>Laboratório de Inventário Florestal e Biofix</p>
 #     <p>Av. Pref. Lothário Meissner, 632 – Jardim Botânico</p>
 #     <p>CEP 80.210-170 – Curitiba – PR</p>
-
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,6 +30,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 <style>
 .video-background {
   position: fixed;
@@ -382,13 +382,6 @@ latest_posts:
     <div class="hero-profile">
       <div class="profile-card">
         <img src="assets/img/prof_pic.png" alt="Profile" class="profile-image">
-        <div class="location-info">
-          <p>Universidade Federal do Paraná</p>
-          <p>CIFLOMA – Campus Jardim Botânico</p>
-          <p>Laboratório de Inventário Florestal e Biofix</p>
-          <p>Av. Pref. Lothário Meissner, 632 – Jardim Botânico</p>
-          <p>CEP 80.210-170 – Curitiba – PR</p>
-        </div>
       </div>
     </div>
   </div>
