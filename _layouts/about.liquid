@@ -69,6 +69,7 @@ layout: default
     {% endif %}
 
     <!-- Social -->
+    {% unless page.title == '.' %}
     {% if page.social %}
       <br>
       <br>
@@ -81,6 +82,7 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
+    {% endunless %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
