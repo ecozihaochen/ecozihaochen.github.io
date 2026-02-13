@@ -363,21 +363,3 @@ latest_posts:
   <div class="particle"></div>
   <div class="particle"></div>
 </div>
-
-<div class="hero-container">
-  <div class="hero-content">
-    <div class="hero-text">
-      
-      <!-- Social media icons -->
-      <div class="social-section" style="margin-top: 1.5rem;">
-        <div class="contact-icons">{% include social.liquid %}</div>
-      </div>
-    </div>
-    
-    <div class="hero-profile">
-      <div class="profile-card">
-        <img src="assets/img/prof_pic.png" alt="Profile" class="profile-image">
-      </div>
-    </div>
-  </div>
-</div>
