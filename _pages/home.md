@@ -370,7 +370,7 @@ latest_posts:
       <h1 class="hero-title">Zihao Chen</h1>
       <p class="hero-subtitle">PhD student of forest ecology</p>
       <!-- <div class="explore-message">
-        Explore nosso site para conhecer nossas linhas de pesquisa, nossa equipe e o impacto de nossos trabalhos
+        Explore my website to learn about my research areas, and the impact of my work.
       </div> -->
       
       <!-- Social media icons -->
