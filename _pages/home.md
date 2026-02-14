@@ -119,8 +119,8 @@ latest_posts:
 }
 
 [data-theme='light'] .hero-title {
-  color:rgb(0, 0, 0);
-  text-shadow: 1px 1px 2px rgba(255,255,255,1);
+  color:rgb(255, 255, 255);
+  text-shadow: 1px 1px 2px rgba(255,255,255,0.1);
 }
 
 .hero-subtitle {
@@ -135,8 +135,8 @@ latest_posts:
 }
 
 [data-theme='light'] .hero-subtitle {
-  color:rgb(0, 0, 0);
-  text-shadow: 1px 1px 2px rgba(255,255,255,1);
+  color:rgb(255, 255, 255);
+  text-shadow: 1px 1px 2px rgba(255,255,255,0.1);
 }
 
 .explore-message {
