@@ -368,7 +368,7 @@ latest_posts:
   <div class="hero-content">
     <div class="hero-text">
       <h1 class="hero-title">Zihao Chen</h1>
-      <p class="hero-subtitle">PhD student of forest ecology</p>
+      <p class="hero-subtitle">PhD student in forest ecology</p>
       <!-- <div class="explore-message">
         Explore my website to learn about my research areas, and the impact of my work.
       </div> -->
