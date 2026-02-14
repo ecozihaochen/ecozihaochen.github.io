@@ -59,7 +59,7 @@ latest_posts:
 }
 
 [data-theme='dark'] .video-overlay {
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.2);
 }
 
 [data-theme='light'] .video-overlay {
@@ -321,7 +321,7 @@ latest_posts:
 
 .social-section .contact-icons a {
   font-size: 1.8rem;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0.6);
   transition: all 0.3s ease;
   text-decoration: none;
   padding: 0.3rem;
