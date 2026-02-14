@@ -63,7 +63,7 @@ latest_posts:
 }
 
 [data-theme='light'] .video-overlay {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0);
 }
 
 .hero-container {
