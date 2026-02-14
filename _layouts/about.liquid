@@ -71,6 +71,22 @@ layout: default
     <!-- Social -->
     {% unless page.title == '.' %}
     {% if page.social %}
+      <style>
+        /* 只影响 about.liquid 里这个 .social 区块的图标大小（不改颜色） */
+        .social .contact-icons i{
+          font-size: 1.8rem;   /* 想更大/更小就改这里 */
+          line-height: 1;
+        }
+
+        /* 可选：让点击区域更舒服（不影响颜色） */
+        .social .contact-icons a{
+          padding: 6px;
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+        }
+      </style>
+
       <br>
       <br>
       <br>
