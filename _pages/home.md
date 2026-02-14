@@ -367,8 +367,8 @@ latest_posts:
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-text">
-      <h1 class="hero-title">FORESTEYES</h1>
-      <p class="hero-subtitle">Grupo de Estudo sobre Integração Geotecnológica aplicadas a Engenharia Florestal</p>
+      <h1 class="hero-title">Zihao Chen</h1>
+      <p class="hero-subtitle">PhD student of forest ecology</p>
       <!-- <div class="explore-message">
         Explore nosso site para conhecer nossas linhas de pesquisa, nossa equipe e o impacto de nossos trabalhos
       </div> -->
@@ -381,7 +381,7 @@ latest_posts:
     
     <div class="hero-profile">
       <div class="profile-card">
-        <img src="assets/img/prof_pic.png" alt="Profile" class="profile-image">
+        <img src="assets/img/prof_pic.jpg" alt="Profile" class="profile-image">
       </div>
     </div>
   </div>
