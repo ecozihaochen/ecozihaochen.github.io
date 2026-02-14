@@ -63,7 +63,7 @@ latest_posts:
 }
 
 [data-theme='light'] .video-overlay {
-  background: rgba(255, 255, 255, 0);
+  background: rgba(255, 255, 255, 0.1);
 }
 
 .hero-container {
@@ -328,7 +328,7 @@ latest_posts:
 }
 
 [data-theme='light'] .social-section .contact-icons a {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(255, 255, 255, 0.8);
 }
 
 .social-section .contact-icons a:hover {
