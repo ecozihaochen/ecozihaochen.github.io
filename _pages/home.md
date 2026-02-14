@@ -379,10 +379,5 @@ latest_posts:
       </div>
     </div>
     
-    <div class="hero-profile">
-      <div class="profile-card">
-        <img src="assets/img/prof_pic.jpg" alt="Profile" class="profile-image">
-      </div>
-    </div>
   </div>
 </div>
