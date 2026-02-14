@@ -4,7 +4,7 @@ title: Home
 permalink: /about/
 nav: ture
 nav_order: 1
-subtitle: Ph.D. Student, Fujian Normal University
+subtitle:
 
 profile:
   align: left
@@ -13,6 +13,7 @@ profile:
   more_info: >
     <p style="font-family: Arial;">Zihao Chen (陈子豪)</p>
     <p style="font-family: Arial;">chenzihaoxue@163.com</p>
+    <p style="font-family: Arial;">PhD student, Fujian Normal University</p>
     <p style="font-family: Arial;">Fuzhou, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
