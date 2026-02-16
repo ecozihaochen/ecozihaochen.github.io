@@ -57,12 +57,18 @@
        }
 
       .title {
-        font-weight: bolder;
+        font-weight: 700;
+        color: var(--global-theme-color);
+        
+      a {
+        font-weight: 700;
+        color: inherit;
+       }
       }
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          border-bottom: 0.8px dashed var(--global-theme-color);
 
           &:hover {
             border-bottom-style: solid;
@@ -71,7 +77,7 @@
         }
 
         > em {
-          border-bottom: 1px solid;
+          border-bottom: 0.8px solid;
           font-style: normal;
         }
 
@@ -82,7 +88,7 @@
 
           &:hover {
             color: var(--global-text-color);
-            border-bottom: 1px dashed var(--global-text-color);
+            border-bottom: 0.8px dashed var(--global-text-color);
           }
         }
       }
