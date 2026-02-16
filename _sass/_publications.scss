@@ -44,17 +44,17 @@
       }
 
       .abbr {
-  margin-bottom: 0;
+        margin-bottom: 0;
 
-  abbr {
-    display: none;
-  }
+        abbr {
+          display: none;
+        }
 
-  .award {
-    color: var(--global-theme-color) !important;
-    border: 1px solid var(--global-theme-color);
-  }
-}
+        .award {
+          color: var(--global-theme-color) !important;
+          border: 1px solid var(--global-theme-color);
+        }
+       }
 
       .title {
         font-weight: bolder;
