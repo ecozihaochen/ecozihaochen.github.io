@@ -13,7 +13,6 @@ profile:
   more_info: >
     <p style="font-family: Arial;">Zihao Chen (陈子豪)</p>
     <p style="font-family: Arial;">chenzihaoxue@163.com</p>
-    <p style="font-family: Arial;">PhD student</p>
     <p style="font-family: Arial;">Fujian Normal University</p>
     <p style="font-family: Arial;">Fuzhou, China</p>
 
@@ -38,6 +37,6 @@ My research examines the responses and dynamics of forest soil organic carbon in
 To address these questions, I use integrate field observations and experimental approaches with large-scale data synthesis. By combining big data analytics with advanced modeling frameworks to identify general patterns and mechanisms that operate from regional to global scales.
 
 
-<br><br>
+<br><br><br>
 
 I’m always happy to talk about research, ideas, or collaborations. Feel free to reach out by email!
