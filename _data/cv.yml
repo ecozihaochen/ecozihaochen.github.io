@@ -18,14 +18,14 @@ cv:
     street: 18 Wulongjiang Road
     city: Fuzhou
     region: Fujian
-    postalCode: 350117
+    postalCode: CN 350117
     countryCode: CHN
 
   sections:
     Education:
      - institution: KU Leuven
         location: Leuven, Belgium
-        url: https://www.kuleuven.be/english/kuleuven
+        url: https://www.kuleuven.be/english/kuleuven/
         area: Geography
         studyType: Visiting PhD
         start_date: 2024
