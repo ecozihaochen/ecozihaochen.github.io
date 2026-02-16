@@ -30,8 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! I’m Zihao, currently a PhD Candidate at the Fujian Normal University under the supervision of [Prof.Fuzhong Wu](https://geo.fjnu.edu.cn/f9/f9/c5055a195065/page.htm) and visiting PhD at sGlobe Lab under the supervision of [Koenraad Van Meerbeek](https://www.sglobelab.com/labmember/koenraad-van-meerbeek).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research examines the responses and dynamics of forest soil organic carbon in a changing climate and its functional role in regulating ecosystem material cycling and energy flow. I aim to understand how belowground carbon processes influence forest ecosystem functioning and carbon–climate feedbacks across spatial scales. To address these questions, I integrate field observations and experimental approaches with large-scale data synthesis. By combining big data analytics with advanced modeling frameworks — including machine learning and structural equation modeling — I seek to identify general patterns and mechanisms that operate from regional to global scales.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond academia, I enjoy hiking and cycling, and I have a deep appreciation for natural landscapes, particularly forests and mountainous environments.
+
+I’m always happy to talk about research, ideas, or collaborations. Feel free to reach out by email!
