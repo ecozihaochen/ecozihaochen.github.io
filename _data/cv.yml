@@ -24,45 +24,33 @@ cv:
   sections:
     Education:
      - institution: KU Leuven
-        location: Leuven, Belgium
-        url: https://www.kuleuven.be/english/kuleuven/
-        area: Geography
-        studyType: Visiting PhD
-        start_date: 2024
-        end_date: 2026
-        score: ""
-        courses: ""
-        highlights: ""
+       location: Leuven, Belgium
+       url: https://www.kuleuven.be/english/kuleuven/
+       area: Geography
+       studyType: Visiting PhD
+       start_date: 2024
+       end_date: 2026
         
-      - institution: Fuzhou Normal University
-        location: Fuzhou, China
-        url:
-        area: Geography
-        studyType: PhD
-        start_date: 2022
-        end_date: 2026
-        score: ""
-        courses: ""
-        highlights: ""
+     - institution: Fuzhou Normal University
+       location: Fuzhou, China
+       area: Geography
+       studyType: PhD
+       start_date: 2022
+       end_date: 2026
         
-      - institution: Sichuan Agricultural University
-        location: Chengdu, China
-        url: ""
-        area: Forestry
-        studyType: Master
-        start_date: 2018
-        end_date: 2021
-        score: ""
-        courses: ""
-        highlights: ""
+     - institution: Sichuan Agricultural University
+       location: Chengdu, China
+       area: Forestry
+       studyType: Master
+       start_date: 2018
+       end_date: 2021
 
-      - institution: Sichuan Agricultural University
-        location: Chengdu, China
-        area: Forestry
-        studyType: Bachelor
-        start_date: 2014
-        end_date: 2018
-        highlights: ""
+     - institution: Sichuan Agricultural University
+       location: Chengdu, China
+       area: Forestry
+       studyType: Bachelor
+       start_date: 2014
+       end_date: 2018
 
     Awards:
       - title: National Graduate Scholarship
@@ -70,15 +58,12 @@ cv:
           - "Ministry of Education of China"
         date: 2025-12
         awarder: Ministry of Education of China
-        url:
-        summary:
 
       - title: First-Class Academic Scholarship
         authors:
           - "Ministry of Education of China"
         date: 2024-12
         awarder: Ministry of Education of China
-        summary:
 
     #Publications:
       #- title: Zur Elektrodynamik bewegter Körper
