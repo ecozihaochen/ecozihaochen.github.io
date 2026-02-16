@@ -44,28 +44,17 @@
       }
 
       .abbr {
-        margin-bottom: 0.5rem;
+  margin-bottom: 0;
 
-        abbr {
-          display: inline-block;
-          background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+  abbr {
+    display: none;
+  }
 
-          a {
-            color: white;
-
-            &:hover {
-              text-decoration: none;
-            }
-          }
-        }
-
-        .award {
-          color: var(--global-theme-color) !important;
-          border: 1px solid var(--global-theme-color);
-        }
-      }
+  .award {
+    color: var(--global-theme-color) !important;
+    border: 1px solid var(--global-theme-color);
+  }
+}
 
       .title {
         font-weight: bolder;
