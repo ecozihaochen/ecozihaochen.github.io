@@ -48,6 +48,13 @@ latest_posts:
   object-fit: cover;
 }
 
+.video-background img {
+  width: 100%;       /* 宽度撑满容器 */
+  height: 100%;      /* 高度撑满容器 */
+  object-fit: cover; 
+  object-position: center center; 
+}
+  
 .video-overlay {
   position: fixed;
   top: 0;
@@ -346,7 +353,7 @@ latest_posts:
 </style>
 
 <div class="video-background">
-  <img src="assets/img/forest.jpg" alt="Background"> 
+  <img src="assets/img/forest.jpg" alt="Background Image">
   </div>
 
 <div class="particles">
