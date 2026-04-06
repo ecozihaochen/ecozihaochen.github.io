@@ -59,11 +59,11 @@ latest_posts:
 }
 
 [data-theme='dark'] .video-overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0);
 }
 
 [data-theme='light'] .video-overlay {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0);
 }
 
 .hero-container {
