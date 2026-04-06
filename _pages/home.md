@@ -37,7 +37,7 @@ latest_posts:
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   z-index: -1;
   overflow: hidden;
   object-fit: cover;
@@ -54,7 +54,7 @@ latest_posts:
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 100vh;
   z-index: -1;
   object-fit: cover;
   /* backdrop-filter: blur(1px); */
