@@ -345,12 +345,8 @@ latest_posts:
 </style>
 
 <div class="video-background">
-  <video autoplay loop muted playsinline>
-    <source src="assets/video/video_2.mp4" type="video/mp4">
-    Seu navegador não suporta o elemento de vídeo.
-  </video>
-</div>
-<div class="video-overlay"></div>
+  <img src="assets/img/forest.jpg" alt="Background"> 
+  </div>
 
 <div class="particles">
   <div class="particle"></div>
