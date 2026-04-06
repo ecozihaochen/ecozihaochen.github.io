@@ -40,7 +40,7 @@ latest_posts:
   height: 100%;
   z-index: -1;
   overflow: hidden;
-   object-fit: cover;
+  object-fit: cover;
 }
 
 .video-background video {
