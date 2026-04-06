@@ -367,7 +367,7 @@ latest_posts:
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-text">
-      <h1 class="hero-title">Zihao Chen </h1>
+      <h1 class="hero-title">Zihao Chen</h1>
       <p class="hero-subtitle">Forest Ecology, Carbon Dynamics</p>
       <!-- <div class="explore-message">
         Explore my website to learn about my research areas, and the impact of my work.
