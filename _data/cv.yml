@@ -26,14 +26,14 @@ cv:
      - institution: KU Leuven
        location: Leuven, Belgium
        url: https://www.kuleuven.be/english/kuleuven/
-       area: Geography
-       studyType: Visiting PhD
+       area: Physical Geography
+       studyType: Visiting PhD (sponsored by CSC)
        start_date: 2024
        end_date: 2026
         
      - institution: Fuzhou Normal University
        location: Fuzhou, China
-       area: Geography
+       area: Physical Geography
        studyType: PhD
        start_date: 2022
        end_date: 2026
