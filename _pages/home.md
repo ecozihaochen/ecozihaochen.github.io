@@ -88,7 +88,7 @@ latest_posts:
   overflow: hidden;
 
     /* 添加标题和社交处的背景模糊效果 */
-  background: rgba(0, 0, 0, 0.4);  /* 半透明黑色背景 */
+  background: rgba(0, 0, 0, 0.2);  /* 半透明黑色背景 */
   backdrop-filter: blur(10px);      /* 背景模糊 */
   border-radius: 0;                 /* 如果需要圆角可调整 */
   margin: 0; 
@@ -114,7 +114,8 @@ latest_posts:
   }
   .hero-container {
     height: auto;
-    min-height: calc(100vh - 120px);
+    min-height: calc(70vh - 120px);
+    backdrop-filter: blur(8px);  /* 移动端稍微降低模糊度，性能更好 */
   }
 }
 
@@ -125,7 +126,7 @@ latest_posts:
 .hero-title {
   font-size: 3rem;
   font-weight: 700;
-  color: #67a0bd;  /* 改成金色，原来是 var(--global-text-color) */
+  color: var(--global-text-color)
   margin-bottom: 1rem;
   line-height: 1.1;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
@@ -139,7 +140,7 @@ latest_posts:
 
 .hero-subtitle {
   font-size: 1.2rem;
-  color: #67a0bd;  /* 改成金色，原来是 var(--global-text-color) */
+  color: var(--global-text-color)
   margin-bottom: 1.5rem;
   line-height: 1.3;
   font-weight: 600;
