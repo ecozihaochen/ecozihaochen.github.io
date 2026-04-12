@@ -77,7 +77,7 @@ latest_posts:
 .hero-container {
   position: relative;
   z-index: 1;
-  height: calc(100vh - 220px);
+  height: calc(160vh - 220px);
   display: flex;
   align-items: center;
   justify-content: center;
