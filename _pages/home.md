@@ -82,9 +82,9 @@ latest_posts:
   align-items: center;
   justify-content: center;
   padding-top: 1rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  padding-bottom: 2rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 1rem;
   overflow: hidden;
 }
 
@@ -94,7 +94,7 @@ latest_posts:
   height: 100%;
   display: grid;
   grid-template-columns: 1fr 350px;
-  gap: 3rem;
+  gap: 2rem;
   align-items: center;
   animation: fadeInUp 1.2s ease-out;
 }
@@ -185,13 +185,13 @@ latest_posts:
 }
 
 .profile-card {
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.55);
   backdrop-filter: blur(15px);
   border-radius: 20px;
   padding: 1.5rem;
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  box-shadow: 0 8px 32px rgba(0,0,0,0.1);
-  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+  transition: all 0.6s ease;
   text-align: center;
   max-height: 400px;
 }
