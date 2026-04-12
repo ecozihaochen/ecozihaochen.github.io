@@ -56,15 +56,20 @@ cv:
       - title: National Graduate Scholarship
         authors:
           - "Ministry of Education of China"
-        date: 2025-12
+        date: 2025
         awarder: Ministry of Education of China
 
       - title: First-Class Academic Scholarship
         authors:
           - "Ministry of Education of China"
-        date: 2024-12
+        date: 2024
         awarder: Ministry of Education of China
 
+      - title: First-Class Academic Scholarship
+        authors:
+          - "Ministry of Education of China"
+        date: 2023
+        awarder: Ministry of Education of China
     #Publications:
       #- title: Zur Elektrodynamik bewegter Körper
       # authors:
