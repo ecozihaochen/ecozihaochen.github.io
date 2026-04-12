@@ -87,7 +87,7 @@ latest_posts:
   padding-bottom: 2rem;
   overflow: hidden;
 
-    /* 添加背景模糊效果 */
+    /* 添加标题和社交处的背景模糊效果 */
   background: rgba(0, 0, 0, 0.4);  /* 半透明黑色背景 */
   backdrop-filter: blur(10px);      /* 背景模糊 */
   border-radius: 0;                 /* 如果需要圆角可调整 */
@@ -342,7 +342,7 @@ latest_posts:
 }
 
 [data-theme='light'] .social-section .contact-icons a {
-  color: rgba(255, 255, 255, 0);
+  color: rgba(255, 255, 255, 1);
 }
 
 .social-section .contact-icons a:hover {
