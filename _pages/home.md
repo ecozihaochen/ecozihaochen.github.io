@@ -119,7 +119,7 @@ latest_posts:
 .hero-title {
   font-size: 3rem;
   font-weight: 700;
-  color: var(--global-text-color);
+  color: #67a0bd;  /* 改成金色，原来是 var(--global-text-color) */
   margin-bottom: 1rem;
   line-height: 1.1;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
@@ -133,7 +133,7 @@ latest_posts:
 
 .hero-subtitle {
   font-size: 1.2rem;
-  color: var(--global-text-color);
+  color: #67a0bd;  /* 改成金色，原来是 var(--global-text-color) */
   margin-bottom: 1.5rem;
   line-height: 1.3;
   font-weight: 600;
@@ -336,7 +336,7 @@ latest_posts:
 }
 
 [data-theme='light'] .social-section .contact-icons a {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 255, 0);
 }
 
 .social-section .contact-icons a:hover {
