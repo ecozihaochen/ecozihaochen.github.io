@@ -185,20 +185,20 @@ latest_posts:
 }
 
 .profile-card {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.25);
   backdrop-filter: blur(15px);
   border-radius: 20px;
   padding: 1.5rem;
-  border: 1px solid rgba(255, 255, 255, 0.7);
-  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
-  transition: all 0.6s ease;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+  transition: all 1s ease;
   text-align: center;
   max-height: 400px;
 }
 
 .profile-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 15px 40px rgba(0,0,0,0.2);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.2);
 }
 
 .profile-image {
