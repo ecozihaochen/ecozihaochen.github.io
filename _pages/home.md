@@ -86,12 +86,6 @@ latest_posts:
   padding-right: 2rem;
   padding-bottom: 2rem;
   overflow: hidden;
-
-    /* 添加标题和社交处的背景模糊效果 */
-  background: rgba(0, 0, 0, 0.2);  /* 半透明黑色背景 */
-  backdrop-filter: blur(10px);      /* 背景模糊 */
-  border-radius: 0;                 /* 如果需要圆角可调整 */
-  margin: 0; 
 }
 
 .hero-content {
@@ -115,7 +109,6 @@ latest_posts:
   .hero-container {
     height: auto;
     min-height: calc(70vh - 120px);
-    backdrop-filter: blur(8px);  /* 移动端稍微降低模糊度，性能更好 */
   }
 }
 
@@ -378,6 +371,7 @@ latest_posts:
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-text">
+    <div class="profile-card">
       <h1 class="hero-title">Zihao Chen</h1>
       <p class="hero-subtitle">Forest Ecology, Carbon Dynamics</p>
       <!-- <div class="explore-message">
