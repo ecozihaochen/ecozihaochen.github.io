@@ -180,7 +180,7 @@ latest_posts:
   display: flex;
   flex-direction: column;
   align-items: center;
-  animation: slideInRight 2s ease-out 1s both;
+  animation: slideInRight 1s ease-out 0.7s both;
   height: fit-content;
 }
 
