@@ -102,7 +102,7 @@ latest_posts:
 @media (max-width: 768px) {
   .hero-content {
     grid-template-columns: 1fr;
-    gap: 1.5rem;
+    gap: 1rem;
     text-align: center;
     height: auto;
   }
