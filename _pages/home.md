@@ -185,7 +185,7 @@ latest_posts:
 }
 
 .profile-card {
-  background: rgba(0, 0, 0, 0.15);
+  background: rgba(0, 0, 0, 0.18);
   backdrop-filter: blur(15px);
   border-radius: 20px;
   padding: 1.5rem;
@@ -198,7 +198,8 @@ latest_posts:
 
 .profile-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+  background: rgba(0, 0, 0, 0.25);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.4);
 }
 
 .profile-image {
