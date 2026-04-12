@@ -185,12 +185,12 @@ latest_posts:
 }
 
 .profile-card {
-  background: rgba(0, 0, 0, 0.25);
+  background: rgba(0, 0, 0, 0.15);
   backdrop-filter: blur(15px);
   border-radius: 20px;
   padding: 1.5rem;
-  border: 1px solid rgba(0, 0, 0, 0.3);
-  box-shadow: 0 8px 25px rgba(0,0,0,0.4);
+  border: 1px solid rgba(0, 0, 0, 0);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
   transition: all 1s ease;
   text-align: center;
   max-height: 400px;
