@@ -82,8 +82,8 @@ latest_posts:
   align-items: center;
   justify-content: center;
   padding-top: 1rem;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   padding-bottom: 1rem;
   overflow: hidden;
 }
@@ -117,7 +117,7 @@ latest_posts:
 }
 
 .hero-title {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 700;
   color: var(--global-text-color)
   margin-bottom: 1rem;
@@ -180,12 +180,12 @@ latest_posts:
   display: flex;
   flex-direction: column;
   align-items: center;
-  animation: slideInRight 1s ease-out 0.6s both;
+  animation: slideInRight 2s ease-out 1s both;
   height: fit-content;
 }
 
 .profile-card {
-  background: rgba(255, 255, 255, 0.55);
+  background: rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(15px);
   border-radius: 20px;
   padding: 1.5rem;
