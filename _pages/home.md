@@ -86,6 +86,12 @@ latest_posts:
   padding-right: 2rem;
   padding-bottom: 2rem;
   overflow: hidden;
+
+    /* 添加背景模糊效果 */
+  background: rgba(0, 0, 0, 0.4);  /* 半透明黑色背景 */
+  backdrop-filter: blur(10px);      /* 背景模糊 */
+  border-radius: 0;                 /* 如果需要圆角可调整 */
+  margin: 0; 
 }
 
 .hero-content {
