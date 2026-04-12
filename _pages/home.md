@@ -77,7 +77,7 @@ latest_posts:
 .hero-container {
   position: relative;
   z-index: 1;
-  height: calc(160vh - 220px);
+  height: calc(60vh - 220px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -122,7 +122,7 @@ latest_posts:
   color: var(--global-text-color);
   margin-bottom: 1rem;
   line-height: 1.1;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
   text-align: center
 }
 
